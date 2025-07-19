@@ -1,0 +1,5 @@
+Installation of SQL Server
+Introduction to SQL
+Getting started with SQL Server
+Overview of DDL, DML & TCL Commands
+DDL SQL Server
