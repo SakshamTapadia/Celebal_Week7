@@ -2,6 +2,7 @@
 
 This project demonstrates how to deploy a trained machine learning model using [Streamlit](https://streamlit.io). The app provides an interactive interface where users can input data, receive model predictions, and understand outputs through visualizations.
 ---
+LIVE LINK - https://celebal7thweek.streamlit.app/
 
 ## 📁 Project Structure
 
@@ -153,7 +154,7 @@ pandas
 
 **Created by:** Saksham Tapadia
 
-- 💼 **LinkedIn:** [saksham_tapadia](https://linkedin.com/in/saksham_tapadia)
+- 💼 **LinkedIn:** [saksham_tapadia](https://www.linkedin.com/in/saksham-tapadia/)
 - 📧 **Email:** sakshamtapadia10@gmail.com
 
 ---
